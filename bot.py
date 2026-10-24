@@ -23,7 +23,7 @@ def run_web_server():
 # ================= الإعدادات الأساسية =================
 BOT_TOKEN = "8755170973:AAFGhhDJt_rjufga7QCIF7pOA4KofQfsuKk"
 ADMIN_ID = 0  # ضع هنا الآيدي الرقمي لحسابك (اختياري)
-WHATSAPP_NUMBER = "249118626801"
+WHATSAPP_NUMBER = "249118626501"
 DEFAULT_CHANNEL = "@YourChannelUsername"  # معرف قناتك (مثال: @my_channel)
 STATE_FILE = "quran_page.txt"
 
